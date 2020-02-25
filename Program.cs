@@ -8,6 +8,10 @@ using System.Security.Cryptography.X509Certificates;
 using System.Configuration;
 using Microsoft.Extensions.Configuration;
 
+/// <summary>
+/// To do
+/// Merge Encryption methods and use parameterize
+/// </summary>
 namespace _3DESFile
 {
     class Program
@@ -23,6 +27,11 @@ namespace _3DESFile
             Console.WriteLine(result);
         }
 
+        /// <summary>
+        /// Reading command line params
+        /// </summary>
+        /// <param name="args"></param>
+        /// <returns></returns>
         static CmdParams ReadCommandLine(string[] args)
         {
             Console.WriteLine("Argument length: " + args.Length);

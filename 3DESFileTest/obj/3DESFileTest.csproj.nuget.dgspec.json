@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/harisdean/Projects/3DESFile/3DESFileTest/3DESFileTest.csproj": {}
+    "/Users/harisdean/Documents/GitHub/Encryption/3DESFileTest/3DESFileTest.csproj": {}
   },
   "projects": {
-    "/Users/harisdean/Projects/3DESFile/3DESFile.csproj": {
+    "/Users/harisdean/Documents/GitHub/Encryption/3DESFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/harisdean/Projects/3DESFile/3DESFile.csproj",
+        "projectUniqueName": "/Users/harisdean/Documents/GitHub/Encryption/3DESFile.csproj",
         "projectName": "3DESFile",
-        "projectPath": "/Users/harisdean/Projects/3DESFile/3DESFile.csproj",
+        "projectPath": "/Users/harisdean/Documents/GitHub/Encryption/3DESFile.csproj",
         "packagesPath": "/Users/harisdean/.nuget/packages/",
-        "outputPath": "/Users/harisdean/Projects/3DESFile/obj/",
+        "outputPath": "/Users/harisdean/Documents/GitHub/Encryption/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -67,14 +67,14 @@
         }
       }
     },
-    "/Users/harisdean/Projects/3DESFile/3DESFileTest/3DESFileTest.csproj": {
+    "/Users/harisdean/Documents/GitHub/Encryption/3DESFileTest/3DESFileTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/harisdean/Projects/3DESFile/3DESFileTest/3DESFileTest.csproj",
+        "projectUniqueName": "/Users/harisdean/Documents/GitHub/Encryption/3DESFileTest/3DESFileTest.csproj",
         "projectName": "3DESFileTest",
-        "projectPath": "/Users/harisdean/Projects/3DESFile/3DESFileTest/3DESFileTest.csproj",
+        "projectPath": "/Users/harisdean/Documents/GitHub/Encryption/3DESFileTest/3DESFileTest.csproj",
         "packagesPath": "/Users/harisdean/.nuget/packages/",
-        "outputPath": "/Users/harisdean/Projects/3DESFile/3DESFileTest/obj/",
+        "outputPath": "/Users/harisdean/Documents/GitHub/Encryption/3DESFileTest/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -91,8 +91,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/harisdean/Projects/3DESFile/3DESFile.csproj": {
-                "projectPath": "/Users/harisdean/Projects/3DESFile/3DESFile.csproj"
+              "/Users/harisdean/Documents/GitHub/Encryption/3DESFile.csproj": {
+                "projectPath": "/Users/harisdean/Documents/GitHub/Encryption/3DESFile.csproj"
               }
             }
           }
