@@ -2238,7 +2238,8 @@
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "Microsoft.Extensions.Configuration.Json": "3.1.2",
-          "Microsoft.Extensions.Options.ConfigurationExtensions": "3.1.2"
+          "Microsoft.Extensions.Options.ConfigurationExtensions": "3.1.2",
+          "xunit": "2.4.1"
         },
         "compile": {
           "bin/placeholder/3DESFile.dll": {}

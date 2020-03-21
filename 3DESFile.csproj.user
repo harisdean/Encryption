@@ -5,4 +5,9 @@
     <StartArguments>-e BIMB_13022020.txt BIMB_13022020_Encrypted.dat</StartArguments>
     <ExternalConsole>true</ExternalConsole>
   </PropertyGroup>
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Default -d' ">
+    <StartAction>Project</StartAction>
+    <StartArguments>-d BIMB_13022020_Encrypted.dat BIMB_13022020_Decrypted.txt</StartArguments>
+    <ExternalConsole>true</ExternalConsole>
+  </PropertyGroup>
 </Project>
